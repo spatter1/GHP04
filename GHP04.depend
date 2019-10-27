@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1572022462 source:c:\users\spatt\onedrive\documents\cs 240\ghp04\stack.cpp
+	<iostream>
+	<cstdlib>
+	"Stack.h"
+
+1572022469 c:\users\spatt\onedrive\documents\cs 240\ghp04\stack.h
+	<iostream>
+
+1572113716 source:c:\users\spatt\onedrive\documents\cs 240\ghp04\main.cpp
+	<iostream>
+	"stack.h"
+
